@@ -11,4 +11,4 @@ Link to the website: [Wifi Spammer](https://faef-2600-1700-c3d0-89e0-00-30.ngrok
 #
 You don't need to download the batch file to run, thats optional.
 
-The batch file is just to download so you can run the website from your desktop
+The batch file is just to download so you can run the website from your desktop if you want to
