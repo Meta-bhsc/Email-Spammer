@@ -13,4 +13,4 @@ You don't need to download the batch file to run, thats optional.
 
 The batch file is just to download so you can run the website from your desktop if you want to
 #
-###keep in mind this may be taken down whenever. I might turn it into a number message spammer in some time.
+### keep in mind this may be taken down whenever. I might turn it into a number message spammer in some time.
