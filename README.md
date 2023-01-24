@@ -7,4 +7,4 @@ If multiple people are using the server it may get overloaded and now work, beca
 #
 
 
-`[Wifi Spammer]https://faef-2600-1700-c3d0-89e0-00-30.ngrok.io/`
+`[Wifi Spammer](https://faef-2600-1700-c3d0-89e0-00-30.ngrok.io/)`
