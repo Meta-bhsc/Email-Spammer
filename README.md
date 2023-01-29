@@ -6,7 +6,7 @@ This is a website being hosted on my private server. So dont expect anything too
 If multiple people are using the server it may get overloaded and not work, because like I said it's a personal server. All it is, is a script running with flask and then made public.
 #
 
-Link to the website: [Email Spammer](https://faef-2600-1700-c3d0-89e0-00-30.ngrok.io/)
+Link to the website: [Email Spammer](https://bd3d-2600-1700-c3d0-89e0-00-40.ngrok.io)
 
 #
 You don't need to download the batch file to run, thats optional.
